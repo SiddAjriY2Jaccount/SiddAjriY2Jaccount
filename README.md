@@ -1,7 +1,7 @@
 ### Hello, I'm [Siddhanth Ajri!](https://siddajriy2jaccount.github.io) 👋 
 
 - I build projects in my domains of interest namely: Deep Learning | Full Stack | DevOps 🔭
-- Favoured tech stack: Python, Flask, Django, Node, Pandas, Keras, Tensorflow 🐍
+- Favoured tech stack: Python, Flask, Django, Node, Pandas, Keras, Tensorflow, Docker 🐍
 - Currently learning React and Terraform 🌱
 - Anime fan :star2:
 - My only known weakness is Pizza 🍕
