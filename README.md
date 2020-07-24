@@ -4,7 +4,7 @@
 - Favoured tech stack: Python, Flask, Django, Node, Pandas, Keras, Tensorflow 🐍
 - Currently learning React and Terraform 🌱
 - Anime fan :star2:
-- My only known weakness is Pizza. 🍕
+- My only known weakness is Pizza 🍕
 - Would love to connect! Reach out at any of these below: 
 - <a href="https://www.linkedin.com/in/siddhanth1997ajri/"><img align="left" alt="Sidd's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://medium.com/@y2jsiddajri"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a><a href="mailto:y2jsiddajri@gmail.com"><img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
