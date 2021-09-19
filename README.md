@@ -2,7 +2,7 @@
 
 - I build projects in my domains of interest namely: Deep Learning | Full Stack | DevOps 🔭
 - Favoured tech stack: Python, Javascript, Flask, Node, React, Pandas, Keras, Tensorflow, Docker 🐍
-- Currently working on Microservice-based development 🌱
+- Currently pursuing my Master's in Computer Science at Northeastern University 🌱
 - Anime fan :star2:
 - My only known weakness is Pizza 🍕
 - Would love to connect! Reach out at: 
