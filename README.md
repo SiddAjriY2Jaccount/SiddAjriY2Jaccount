@@ -1,8 +1,8 @@
 ### Hello, I'm [Siddhanth Ajri!](https://siddajriy2jaccount.github.io) 👋 
 
 - My pronouns are He/Him 😄
-- I build projects in my domains of interest namely: Deep Learning | Full Stack | DevOps 🔭
-- Favoured tech stack: Python, Javascript, Flask, Node, Angular, React, Pandas, Keras, Tensorflow, Docker 🐍
+- I build projects in my domains of interest namely: Deep Learning | Full Stack | Virtual Reality 🔭
+- Favoured tech stack: Python, Java, Javascript, C#, Unity, Flask, Node, Angular, React, Pandas, Keras, Tensorflow, Docker 🐍
 - Currently pursuing my Master's in Computer Science at Northeastern University 🌱
 - Anime fan :star2:
 - My only known weakness is Pizza 🍕
